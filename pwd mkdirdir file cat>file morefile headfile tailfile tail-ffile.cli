@@ -1,0 +1,52 @@
+Last login: Sat Nov 12 09:25:17 on console
+[oh-my-zsh] Would you like to update? [Y/n] d
+[oh-my-zsh] You can update manually by running `omz update`
+(base) ➜  ~ pwd
+/Users/sengkeat
+(base) ➜  ~ pwd
+/Users/sengkeat
+(base) ➜  ~ pwd
+/Users/sengkeat
+(base) ➜  ~ pwd
+/Users/sengkeat
+(base) ➜  ~ pwd
+/Users/sengkeat
+(base) ➜  ~ pwd
+/Users/sengkeat
+(base) ➜  ~ mkdir dir
+(base) ➜  ~ mkdir dir
+mkdir: dir: File exists
+(base) ➜  ~ mkdir dir
+mkdir: dir: File exists
+(base) ➜  ~ mkdir dir
+mkdir: dir: File exists
+(base) ➜  ~ cat > file
+cat > file
+cat > file
+cat > file
+cat > file
+cat > file
+cat > file
+cat > file
+cat > file
+cat > file
+mor file
+more file
+more file
+more file
+more file   
+head file
+head file
+head file
+head file
+head file
+tail file
+tail file
+tail file
+tail file
+tail file
+tail -f file
+tail -f file
+tail -f file
+tail -f file
+tail -f file
