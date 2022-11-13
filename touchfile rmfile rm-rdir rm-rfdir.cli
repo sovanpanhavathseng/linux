@@ -1,0 +1,65 @@
+Last login: Sun Nov 13 11:48:10 on ttys000
+[oh-my-zsh] Would you like to update? [Y/n] c
+[oh-my-zsh] You can update manually by running `omz update`
+(base) ➜  ~ touch file
+(base) ➜  ~ touch file
+(base) ➜  ~ touch file
+(base) ➜  ~ touch file
+(base) ➜  ~ touch file
+(base) ➜  ~ rm file
+(base) ➜  ~ rm file
+rm: file: No such file or directory
+(base) ➜  ~ rm file
+rm: file: No such file or directory
+(base) ➜  ~ rm file
+rm: file: No such file or directory
+(base) ➜  ~  rm file
+rm: file: No such file or directory
+(base) ➜  ~ rm -r dir
+(base) ➜  ~ rm -r dir
+rm: dir: No such file or directory
+(base) ➜  ~ rm -r dir
+rm: dir: No such file or directory
+(base) ➜  ~ 
+(base) ➜  ~ rm -r dir
+rm: dir: No such file or directory
+(base) ➜  ~ rm -r dir
+rm: dir: No such file or directory
+(base) ➜  ~ rm -rf dir
+(base) ➜  ~ rm -rf dir
+(base) ➜  ~ rm -rf dir
+(base) ➜  ~ rm -rf dir
+(base) ➜  ~ rm -rf dir
+(base) ➜  ~ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
