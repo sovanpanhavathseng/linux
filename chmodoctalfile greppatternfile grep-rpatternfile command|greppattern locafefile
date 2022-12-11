@@ -1,0 +1,47 @@
+Last login: Thu Dec  8 10:00:13 on console
+(base) ➜  ~ chmod octal file
+chmod: Invalid file mode: octal
+(base) ➜  ~ chmod octal file
+chmod: Invalid file mode: octal
+(base) ➜  ~ chmod octal file
+chmod: Invalid file mode: octal
+(base) ➜  ~ chmod octal file
+chmod: Invalid file mode: octal
+(base) ➜  ~ chmod octal file
+chmod: Invalid file mode: octal
+(base) ➜  ~ grep pattern file
+grep: file: No such file or directory
+(base) ➜  ~  grep pattern file
+grep: file: No such file or directory
+(base) ➜  ~ grep pattern file
+grep: file: No such file or directory
+(base) ➜  ~ grep pattern file
+grep: file: No such file or directory
+(base) ➜  ~ grep pattern file
+grep: file: No such file or directory
+(base) ➜  ~ grep -r pattern file
+grep: file: No such file or directory
+(base) ➜  ~ grep -r pattern file
+grep: file: No such file or directory
+(base) ➜  ~ grep -r pattern file
+grep: file: No such file or directory
+(base) ➜  ~ grep -r pattern file
+grep: file: No such file or directory
+(base) ➜  ~ grep -r pattern file
+grep: file: No such file or directory
+(base) ➜  ~ command | grep pattern
+(base) ➜  ~ command | grep pattern
+(base) ➜  ~ command | grep pattern
+(base) ➜  ~ command | grep pattern
+(base) ➜  ~ command | grep pattern
+(base) ➜  ~ locafe file
+zsh: command not found: locafe
+(base) ➜  ~ locafe file
+zsh: command not found: locafe
+(base) ➜  ~ locafe file
+zsh: command not found: locafe
+(base) ➜  ~ locafe file
+zsh: command not found: locafe
+(base) ➜  ~ locafe file
+zsh: command not found: locafe
+(base) ➜  ~ 
