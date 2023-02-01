@@ -1,0 +1,50 @@
+Last login: Wed Feb  1 16:08:54 on ttys000
+(base) ➜  ~ tar xf file.tar.gz files
+tar: Error opening archive: Failed to open 'file.tar.gz'
+(base) ➜  ~ tar xf file.tar.gz files
+tar: Error opening archive: Failed to open 'file.tar.gz'
+(base) ➜  ~ tar xf file.tar.gz files
+tar: Error opening archive: Failed to open 'file.tar.gz'
+(base) ➜  ~ tar xf file.tar.gz files
+tar: Error opening archive: Failed to open 'file.tar.gz'
+(base) ➜  ~ tar xf file.tar.gz files
+tar: Error opening archive: Failed to open 'file.tar.gz'
+(base) ➜  ~ tar xzf file.tar.gz
+tar: Error opening archive: Failed to open 'file.tar.gz'
+(base) ➜  ~ tar xzf file.tar.gz
+tar: Error opening archive: Failed to open 'file.tar.gz'
+(base) ➜  ~ tar xzf file.tar.gz
+tar: Error opening archive: Failed to open 'file.tar.gz'
+(base) ➜  ~ tar xzf file.tar.gz
+tar: Error opening archive: Failed to open 'file.tar.gz'
+(base) ➜  ~ tar xzf file.tar.gz
+tar: Error opening archive: Failed to open 'file.tar.gz'
+(base) ➜  ~ tar cjf file.tar.bz2
+tar: no files or directories specified
+(base) ➜  ~ tar cjf file.tar.bz2
+tar: no files or directories specified
+(base) ➜  ~ tar cjf file.tar.bz2
+tar: no files or directories specified
+(base) ➜  ~ tar cjf file.tar.bz2
+tar: no files or directories specified
+(base) ➜  ~ tar cjf file.tar.bz2
+tar: no files or directories specified
+(base) ➜  ~ tar xjf file.tar.bz2
+tar: Error opening archive: Failed to open 'file.tar.bz2'
+(base) ➜  ~ tar xjf file.tar.bz2
+tar: Error opening archive: Failed to open 'file.tar.bz2'
+(base) ➜  ~ tar xjf file.tar.bz2
+tar: Error opening archive: Failed to open 'file.tar.bz2'
+(base) ➜  ~ tar xjf file.tar.bz2
+tar: Error opening archive: Failed to open 'file.tar.bz2'
+(base) ➜  ~ tar xjf file.tar.bz2
+tar: Error opening archive: Failed to open 'file.tar.bz2'
+(base) ➜  ~ gzip file
+gzip: can't stat: file (file): No such file or directory
+(base) ➜  ~ gzip file
+gzip: can't stat: file (file): No such file or directory
+(base) ➜  ~ gzip file
+gzip: can't stat: file (file): No such file or directory
+(base) ➜  ~ gzip file
+gzip: can't stat: file (file): No such file or directory
+(base) ➜  ~ gzip file
