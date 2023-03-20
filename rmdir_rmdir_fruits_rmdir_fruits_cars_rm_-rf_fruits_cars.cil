@@ -1,0 +1,100 @@
+Last login: Mon Mar 20 17:34:42 on console
+(base) ➜  ~ rmdir
+usage: rmdir [-p] directory ...
+(base) ➜  ~ rmdir
+usage: rmdir [-p] directory ...
+(base) ➜  ~ rmdir
+usage: rmdir [-p] directory ...
+(base) ➜  ~ rmdir
+usage: rmdir [-p] directory ...
+(base) ➜  ~ rmdir
+usage: rmdir [-p] directory ...
+(base) ➜  ~ rmdir
+usage: rmdir [-p] directory ...
+(base) ➜  ~ rmdir
+usage: rmdir [-p] directory ...
+(base) ➜  ~ rmdir
+usage: rmdir [-p] directory ...
+(base) ➜  ~ rmdir
+usage: rmdir [-p] directory ...
+(base) ➜  ~ rmdir
+usage: rmdir [-p] directory ...
+(base) ➜  ~ rmdir fruits
+rmdir: fruits: No such file or directory
+(base) ➜  ~ rmdir fruits
+rmdir: fruits: No such file or directory
+(base) ➜  ~ rmdir fruits
+rmdir: fruits: No such file or directory
+(base) ➜  ~ rmdir fruits
+rmdir: fruits: No such file or directory
+(base) ➜  ~ rmdir fruits
+rmdir: fruits: No such file or directory
+(base) ➜  ~ rmdir fruits
+rmdir: fruits: No such file or directory
+(base) ➜  ~ rmdir fruits
+rmdir: fruits: No such file or directory
+(base) ➜  ~ rmdir fruits
+rmdir: fruits: No such file or directory
+(base) ➜  ~ rmdir fruits
+rmdir: fruits: No such file or directory
+(base) ➜  ~ rmdir fruits
+rmdir: fruits: No such file or directory
+(base) ➜  ~ rmdir fruits
+rmdir: fruits: No such file or directory
+(base) ➜  ~ rmdir fruits
+rmdir: fruits: No such file or directory
+(base) ➜  ~ rmdir fruits cars
+rmdir: fruits: No such file or directory
+rmdir: cars: No such file or directory
+(base) ➜  ~ rmdir fruits cars
+rmdir: fruits: No such file or directory
+rmdir: cars: No such file or directory
+(base) ➜  ~ rmdir fruits cars
+rmdir: fruits: No such file or directory
+rmdir: cars: No such file or directory
+(base) ➜  ~ rmdir fruits cars
+rmdir: fruits: No such file or directory
+rmdir: cars: No such file or directory
+(base) ➜  ~ rmdir fruits cars
+rmdir: fruits: No such file or directory
+rmdir: cars: No such file or directory
+(base) ➜  ~ rmdir fruits cars
+rmdir: fruits: No such file or directory
+rmdir: cars: No such file or directory
+(base) ➜  ~ rmdir fruits cars
+rmdir: fruits: No such file or directory
+rmdir: cars: No such file or directory
+(base) ➜  ~ rmdir fruits cars
+rmdir: fruits: No such file or directory
+rmdir: cars: No such file or directory
+(base) ➜  ~ rmdir fruits cars
+rmdir: fruits: No such file or directory
+rmdir: cars: No such file or directory
+(base) ➜  ~ rmdir fruits cars
+rmdir: fruits: No such file or directory
+rmdir: cars: No such file or directory
+(base) ➜  ~ rmdir fruits cars
+rmdir: fruits: No such file or directory
+rmdir: cars: No such file or directory
+(base) ➜  ~ rmdir fruits cars
+rmdir: fruits: No such file or directory
+rmdir: cars: No such file or directory
+(base) ➜  ~ rmdir fruits cars
+rmdir: fruits: No such file or directory
+rmdir: cars: No such file or directory
+(base) ➜  ~ rmdir fruits cars
+rmdir: fruits: No such file or directory
+rmdir: cars: No such file or directory
+(base) ➜  ~ rmdir fruits cars
+rmdir: fruits: No such file or directory
+rmdir: cars: No such file or directory
+(base) ➜  ~ rm -rf fruits cars
+(base) ➜  ~ rm -rf fruits cars
+(base) ➜  ~ rm -rf fruits cars
+(base) ➜  ~ rm -rf fruits cars
+(base) ➜  ~ rm -rf fruits cars
+(base) ➜  ~ rm -rf fruits cars
+(base) ➜  ~ rm -rf fruits cars
+(base) ➜  ~ rm -rf fruits cars
+(base) ➜  ~ rm -rf fruits cars
+(base) ➜  ~ rm -rf fruits cars
