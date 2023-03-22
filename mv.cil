@@ -1,0 +1,53 @@
+Last login: Wed Mar 22 15:49:27 on console
+(base) ➜  ~ touch test
+(base) ➜  ~ mv pear new_pear
+mv: rename pear to new_pear: No such file or directory
+(base) ➜  ~ touch test            
+(base) ➜  ~ mv pear new_pear
+mv: rename pear to new_pear: No such file or directory
+(base) ➜  ~ touch test
+(base) ➜  ~ mv pear new_pear
+mv: rename pear to new_pear: No such file or directory
+(base) ➜  ~ touch test
+(base) ➜  ~ mv pear new_pear
+mv: rename pear to new_pear: No such file or directory
+(base) ➜  ~ touch test
+(base) ➜  ~ mv pear new_pear
+mv: rename pear to new_pear: No such file or directory
+(base) ➜  ~ touch pear
+(base) ➜  ~ touch pear
+(base) ➜  ~ touch pear
+(base) ➜  ~ touch pear
+(base) ➜  ~ touch pear
+(base) ➜  ~ touch apple
+(base) ➜  ~ touch apple
+(base) ➜  ~ touch apple
+(base) ➜  ~ touch apple
+(base) ➜  ~ touch apple
+(base) ➜  ~ mkdir fruits
+(base) ➜  ~ mkdir fruits
+mkdir: fruits: File exists
+(base) ➜  ~ mkdir fruits
+mkdir: fruits: File exists
+(base) ➜  ~ mkdir fruits
+mkdir: fruits: File exists
+(base) ➜  ~ mkdir fruits
+mkdir: fruits: File exists
+(base) ➜  ~ mkdir fruits
+mkdir: fruits: File exists
+(base) ➜  ~ mv pear apple fruits
+(base) ➜  ~ mv pear apple fruits
+mv: pear: No such file or directory
+mv: apple: No such file or directory
+(base) ➜  ~ mv pear apple fruits
+mv: pear: No such file or directory
+mv: apple: No such file or directory
+(base) ➜  ~ mv pear apple fruits
+mv: pear: No such file or directory
+mv: apple: No such file or directory
+(base) ➜  ~ mv pear apple fruits
+mv: pear: No such file or directory
+mv: apple: No such file or directory
+(base) ➜  ~ mv pear apple fruits
+mv: pear: No such file or directory
+mv: apple: No such file or directory
